@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Text from feat branch
+=======
+Text from master branch
+>>>>>>> c31e527 (MC from master)
